@@ -1,0 +1,23 @@
+/.catalyst
+/.idea
+/.ipynb_checkpoints
+/.vscode
+/Section10_DataAquisation(WebScrapping)
+/Section11_DataAquisationUsingWebAPI
+/Section12_ChuckNorrisJoke
+/Section13_DataAquisation(WebCrawlerUsingScrapy)
+/Section14_ScrapingShoppingWebsit
+/Section16_CreatingTelegramBot
+/Section17_Numpy
+/Section18_LinearAlgebra
+/Section19_DataVisualisation
+/Section1_PythonBasics
+/Section2_Creating Module
+/Section3_MathPackage
+/Section4_File Handling
+/Section5_JsonFile
+/Section6_ErrorHandling
+/Section7_IterationProtocols&Generators
+/Section8_PythonPracticeProblem
+/Section9_AsynchronousProgramming
+/__pycache__
